@@ -1,3 +1,3 @@
 def reverse_each_word(sentence1)
-  sentence1{ "Hello there, and how are you?" }.reverse
+  sentence1.each do 
 end
