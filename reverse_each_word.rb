@@ -1,3 +1,1 @@
-def reverse_each_word(sentence1)
-  sentence1.each do 
-end
+reverse_each_word("Hello there, and how are you?")
